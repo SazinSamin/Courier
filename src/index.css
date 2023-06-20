@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: orangered;
+  background-color: linear-gradient(#ff4096, #ea3115);
 }
 
 /* Chats Page */
